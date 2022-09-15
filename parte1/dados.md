@@ -56,3 +56,10 @@ Machine Learning => Treinar algoritimos para encontrar padrões de forma automá
 
 Explicações sobre a família do Power BI, sistema operacional e download do Power BI Desktop
 
+### "Dica"
+
+Deixar a atualização automática para o prórprio wind fazer. Todos os meses a MS lança atualizações. 
+
+Existe outro curso gratuito que a propria microsoft oferece. Chama-se Aprendizado Guiado.
+https://docs.microsoft.com/pt-br/training/powerplatform/power-bi
+
