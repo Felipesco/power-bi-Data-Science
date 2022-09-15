@@ -52,4 +52,7 @@ São sub áreas da ciência de dados
 Big Data Analytics => Extrair conhecimento a partir dos dados aplicando técnias de análise => Análise Descritiva
 Machine Learning => Treinar algoritimos para encontrar padrões de forma automática e então fazer previsões => Análise Preditiva
 
+---
+
+Explicações sobre a família do Power BI, sistema operacional e download do Power BI Desktop
 
