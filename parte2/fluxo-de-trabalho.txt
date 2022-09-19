@@ -1,0 +1,8 @@
+Fluxo de Trabalho:
+
+Definir o problema e a possivel solução
+
+Preparar os dados => Query Editor 
+Modelagem dos dados => Relationship View / Data View (As tabelhinhas do canto esquerdo do pw bi )
+Visualização dos dados => Report View (Criação de gráficos e coisas bonitas para apresentar)
+
