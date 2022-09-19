@@ -1,0 +1,5 @@
+Definir o problema e a possivel solução
+
+Preparar os dados
+Modelagem dos dados
+Visualização dos dados
